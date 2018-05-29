@@ -1,5 +1,6 @@
 // From: https://app.codility.com/demo/results/trainingEMSVPT-UBM/
 // Score: 100% 100% 100%
+// Time Complexity: O(N)
 
 function solution(A) {
     let minimal_diff = Infinity
